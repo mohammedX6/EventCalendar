@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/moham/Desktop/Phase2_Calendar/WebContent/ErrorMessage.jsp</file>
+            <file>file:/C:/Users/moham/Desktop/Phase2_Calendar/src/Controllers/CalendarController.java</file>
+            <file>file:/C:/Users/moham/Desktop/Phase2_Calendar/WebContent/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/moham/Desktop/Phase2_Calendar/src/models/Calendar.java</file>
+            <file>file:/C:/Users/moham/Desktop/Phase2_Calendar/src/Data/SQLContext.java</file>
+            <file>file:/C:/Users/moham/Desktop/Phase2_Calendar/src/Controllers/AuthController.java</file>
+            <file>file:/C:/Users/moham/Desktop/Phase2_Calendar/src/models/Attendee.java</file>
+            <file>file:/C:/Users/moham/Desktop/Phase2_Calendar/src/models/Event.java</file>
+            <file>file:/C:/Users/moham/Desktop/Phase2_Calendar/WebContent/index.jsp</file>
+            <file>file:/C:/Users/moham/Desktop/Phase2_Calendar/WebContent/login.jsp</file>
+            <file>file:/C:/Users/moham/Desktop/Phase2_Calendar/src/Filters/Auth.java</file>
+            <file>file:/C:/Users/moham/Desktop/Phase2_Calendar/WebContent/Calendar.jsp</file>
+        </group>
+    </open-files>
+</project-private>
